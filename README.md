@@ -63,13 +63,13 @@ pip install websockets aioconsole
 **Terminal 1 - Servidor:**
 ```bash
 cd exercicio01
-python servidor.py
+python servidor_tcp.py
 ```
 
 **Terminal 2 - Cliente:**
 ```bash
 cd exercicio01
-python cliente.py
+python cliente_tcp.py
 ```
 
 ### Uso
